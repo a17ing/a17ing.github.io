@@ -20,10 +20,10 @@ timezone: Asia/Shanghai
 
 title: a17ing's blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Learning # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Cyber ​​security enthusiast.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://a17ing.github.io"
@@ -42,7 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/a17ing # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
