@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f87bba7fbb06673",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/img/a17ing.png"
+              }
+            }
           }
         ]
       }
@@ -148,13 +158,16 @@
   },
   "active": "421eef7f6d5ceb54",
   "lastOpenFiles": [
+    "assets/img/a17ing.png",
+    "_posts/2023-10-10-docker逃逸.md",
+    "_tabs/about.md",
+    "_tabs/tags.md",
+    "_tabs/categories.md",
+    "_post.md",
     "template/xxxx-xx-xx-title.md",
     "README.md",
-    "_posts/2023-10-10-docker逃逸.md",
-    "_tabs/tags.md",
     "template",
     "_tabs/archives.md",
-    "_tabs/about.md",
     "未命名.canvas"
   ]
 }
