@@ -25,5 +25,14 @@
       ],
       "key": "P"
     }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "W"
+    }
   ]
 }
