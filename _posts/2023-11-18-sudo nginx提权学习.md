@@ -180,7 +180,7 @@ SHELL=/bin/sh
 
 然后上传到`/var/spool/cron/crontabs/root`
 
-<aside> ⚠️ 在 Unix/Linux 系统中，**`/var/spool/cron/crontabs/`** 目录通常包含了每个用户的个人 cron 作业文件。这个目录下的文件名称通常以用户名为基础，对应每个用户的 crontab 文件。这些文件包含了用户通过 **`crontab -e`** 命令编辑的定时任务。
+<aside> ⚠️ 在 Unix/Linux 系统中，/var/spool/cron/crontabs/ 目录通常包含了每个用户的个人 cron 作业文件。这个目录下的文件名称通常以用户名为基础，对应每个用户的 crontab 文件。这些文件包含了用户通过 crontab -e 命令编辑的定时任务。
 
 </aside>
 
