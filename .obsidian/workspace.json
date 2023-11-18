@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "830bc760d7488115",
+        "id": "5997b3a38f6cda00",
         "type": "tabs",
         "children": [
           {
-            "id": "2f87bba7fbb06673",
+            "id": "e28faa891cd0966e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-10-docker逃逸.md",
+                "file": "_posts/2023-11-18-sudo nginx提权学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-10-docker逃逸.md",
+                "file": "_posts/2023-11-18-sudo nginx提权学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-10-docker逃逸.md",
+                "file": "_posts/2023-11-18-sudo nginx提权学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-10-docker逃逸.md"
+                "file": "_posts/2023-11-18-sudo nginx提权学习.md"
               }
             }
           }
@@ -146,20 +146,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2f87bba7fbb06673",
+  "active": "e28faa891cd0966e",
   "lastOpenFiles": [
     "assets/img/2023-10-10-docker逃逸/1.png",
-    "_posts/2023-10-10-docker逃逸.md",
-    "().md",
     "assets/img/a17ing.png",
+    "assets/img/2023-11-18-sudo nginx提权学习/1.png",
+    "_posts/2023-11-18-sudo nginx提权学习.md",
+    "_tabs/about.md",
+    "_posts/2023-10-10-docker逃逸.md",
+    "_tabs/archives.md",
+    "_tabs/categories.md",
+    "_tabs/tags.md",
+    "assets/img/favicons/favicon-32x32.png",
+    "assets/img/favicons/apple-touch-icon.png",
+    "assets/img/favicons/android-chrome-192x192.png",
+    "assets/img/2023-11-18-sudo nginx提权学习",
+    "template/xxxx-xx-xx-title.md",
+    "().md",
     "assets/img/2023-10-10-docker逃逸",
     "assets/img/a17ing.md",
-    "_tabs/archives.md",
-    "_tabs/about.md",
-    "_tabs/tags.md",
-    "_tabs/categories.md",
     "_post.md",
-    "template/xxxx-xx-xx-title.md",
     "README.md",
     "template",
     "未命名.canvas"
