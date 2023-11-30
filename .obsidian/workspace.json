@@ -8,14 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e28faa891cd0966e",
+            "id": "9d860bb291a258f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-18-sudo nginx提权学习.md",
+                "file": "_posts/2023-11-31-TwoDots Horror.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e28faa891cd0966e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/img/2023-11-31-TwoDots Horror/1.png"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-18-sudo nginx提权学习.md",
+                "file": "_posts/2023-11-31-TwoDots Horror.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-18-sudo nginx提权学习.md",
+                "file": "_posts/2023-11-31-TwoDots Horror.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-18-sudo nginx提权学习.md"
+                "file": "_posts/2023-11-31-TwoDots Horror.md"
               }
             }
           }
@@ -146,10 +156,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e28faa891cd0966e",
+  "active": "9d860bb291a258f0",
   "lastOpenFiles": [
-    "assets/img/2023-11-18-sudo.md",
+    "assets/img/2023-11-31-TwoDots Horror/1.png",
+    "_posts/2023-11-31-TwoDots Horror.md",
     "_posts/2023-11-18-sudo nginx提权学习.md",
+    "assets/img/2023-11-31-TwoDots Horror",
+    "assets/img/2023-11-18-sudo.md",
     "assets/img/2023-10-10-docker逃逸/1.png",
     "assets/img/a17ing.png",
     "assets/img/2023-11-18-sudo nginx提权学习/1.png",
