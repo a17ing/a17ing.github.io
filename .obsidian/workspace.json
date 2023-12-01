@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5997b3a38f6cda00",
+        "id": "720adb61d315d667",
         "type": "tabs",
         "children": [
           {
-            "id": "9d860bb291a258f0",
+            "id": "9a1f517fcb079674",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-31-TwoDots Horror.md",
+                "file": "_posts/2023-12-1-TwoDots Horror.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e28faa891cd0966e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/img/2023-11-31-TwoDots Horror/1.png"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-31-TwoDots Horror.md",
+                "file": "_posts/2023-12-1-TwoDots Horror.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-31-TwoDots Horror.md",
+                "file": "_posts/2023-12-1-TwoDots Horror.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-31-TwoDots Horror.md"
+                "file": "_posts/2023-12-1-TwoDots Horror.md"
               }
             }
           }
@@ -156,16 +146,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9d860bb291a258f0",
+  "active": "9a1f517fcb079674",
   "lastOpenFiles": [
-    "assets/img/2023-11-31-TwoDots Horror/1.png",
-    "_posts/2023-11-31-TwoDots Horror.md",
+    "assets/img/2023-12-1-TwoDots-Horror/3.png",
+    "_posts/2023-12-1-TwoDots Horror.md",
+    "assets/img/2023-12-1-TwoDots-Horror/2.png",
     "_posts/2023-11-18-sudo nginx提权学习.md",
-    "assets/img/2023-11-31-TwoDots Horror",
-    "assets/img/2023-11-18-sudo.md",
-    "assets/img/2023-10-10-docker逃逸/1.png",
+    "assets/img/2023-12-1-TwoDots-Horror/1.png",
     "assets/img/a17ing.png",
-    "assets/img/2023-11-18-sudo nginx提权学习/1.png",
+    "assets/img/2023-10-10-docker逃逸/1.png",
+    "assets/img/favicons/android-chrome-192x192.png",
+    "assets/img/2023-11-31-TwoDots.md",
+    "assets/img/2023-12-1-TwoDots-Horror",
+    "assets/img/2023-11-18-sudo.md",
+    "assets/img/2023-11-18-sudo-nginx提权学习/1.png",
     "_tabs/about.md",
     "_posts/2023-10-10-docker逃逸.md",
     "_tabs/archives.md",
@@ -173,8 +167,7 @@
     "_tabs/tags.md",
     "assets/img/favicons/favicon-32x32.png",
     "assets/img/favicons/apple-touch-icon.png",
-    "assets/img/favicons/android-chrome-192x192.png",
-    "assets/img/2023-11-18-sudo nginx提权学习",
+    "assets/img/2023-11-18-sudo-nginx提权学习",
     "template/xxxx-xx-xx-title.md",
     "().md",
     "assets/img/2023-10-10-docker逃逸",
