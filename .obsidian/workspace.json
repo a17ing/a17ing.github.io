@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-1-TwoDots Horror.md",
+                "file": "_posts/2023-11-18-sudo nginx提权学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-1-TwoDots Horror.md",
+                "file": "_posts/2023-11-18-sudo nginx提权学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-1-TwoDots Horror.md",
+                "file": "_posts/2023-11-18-sudo nginx提权学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-1-TwoDots Horror.md"
+                "file": "_posts/2023-11-18-sudo nginx提权学习.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "9a1f517fcb079674",
   "lastOpenFiles": [
-    "assets/img/2023-12-1-TwoDots-Horror/3.png",
     "_posts/2023-12-1-TwoDots Horror.md",
+    "assets/img/2023-12-1-TwoDots-Horror/3.png",
     "assets/img/2023-12-1-TwoDots-Horror/2.png",
     "_posts/2023-11-18-sudo nginx提权学习.md",
     "assets/img/2023-12-1-TwoDots-Horror/1.png",
