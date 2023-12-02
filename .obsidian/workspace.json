@@ -11,11 +11,9 @@
             "id": "9a1f517fcb079674",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/2023-12-1-TwoDots Horror.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/img/favicons/safari-pinned-tab.svg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-1-TwoDots Horror.md",
+                "file": "assets/img/favicons/safari-pinned-tab.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-1-TwoDots Horror.md",
+                "file": "assets/img/favicons/safari-pinned-tab.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-1-TwoDots Horror.md"
+                "file": "assets/img/favicons/safari-pinned-tab.svg"
               }
             }
           }
@@ -148,26 +146,27 @@
   },
   "active": "9a1f517fcb079674",
   "lastOpenFiles": [
+    "assets/img/a17ing.png",
+    "assets/img/android-chrome-512x512.png",
+    "assets/img/favicons/safari-pinned-tab.svg",
+    "assets/img/favicons/mstile-150x150.png",
+    "assets/img/favicons/favicon-32x32.png",
+    "assets/img/favicons/favicon-16x16.png",
+    "assets/img/favicons/apple-touch-icon.png",
+    "assets/img/favicons/android-chrome-512x512.png",
+    "assets/img/favicons/android-chrome-192x192.png",
     "assets/img/2023-12-1-TwoDots-Horror/4.png",
+    "assets/img/2023-12-1-TwoDots-Horror/3.png",
     "_posts/2023-12-1-TwoDots Horror.md",
     "_posts/2023-11-18-sudo nginx提权学习.md",
-    "assets/img/2023-12-1-TwoDots-Horror/3.png",
-    "assets/img/2023-12-1-TwoDots-Horror/2.png",
-    "assets/img/2023-12-1-TwoDots-Horror/1.png",
-    "assets/img/a17ing.png",
-    "assets/img/2023-10-10-docker逃逸/1.png",
-    "assets/img/favicons/android-chrome-192x192.png",
     "assets/img/2023-11-31-TwoDots.md",
     "assets/img/2023-12-1-TwoDots-Horror",
     "assets/img/2023-11-18-sudo.md",
-    "assets/img/2023-11-18-sudo-nginx提权学习/1.png",
     "_tabs/about.md",
     "_posts/2023-10-10-docker逃逸.md",
     "_tabs/archives.md",
     "_tabs/categories.md",
     "_tabs/tags.md",
-    "assets/img/favicons/favicon-32x32.png",
-    "assets/img/favicons/apple-touch-icon.png",
     "assets/img/2023-11-18-sudo-nginx提权学习",
     "template/xxxx-xx-xx-title.md",
     "().md",
